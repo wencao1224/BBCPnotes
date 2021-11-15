@@ -1,11 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to BBCP notes!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-Lumache has its documentation hosted on Read the Docs.
+BBCP stangds for Brain Behavior Center P, the neuroimaging section of CIRNA (Center for Interdisciplinary Research for Nictotin Addiction) at University of Pensylvania.
+Here we focus on using neuroimaging techniques to explore biomarkers that would influence tobacco addiction behavior.
+BBCP has conducted projects that involves genetics, metabolism, and cognitive aspacts of addiciton behavior.
+
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
